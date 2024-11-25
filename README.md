@@ -34,7 +34,7 @@ background-color:#CCC;
 </head>
 <body>
 <div class="caja">
-<a href="Formulario_contacto.html" class="caja caja1">Actividad 6</a>
+<a href="formulario_contacto.html" class="caja caja1">Actividad 6</a>
 </div>
 </body>
 </html>
